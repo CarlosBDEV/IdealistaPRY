@@ -1,0 +1,345 @@
+Usuario cbarajas tiene 199.0 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 3
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 4
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 5
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 6
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 7
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 8
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 9
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 10
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 11
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 12
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 13
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 14
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 15
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 16
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 17
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 18
+ **RESULTADOS LLAMADA**Páginas devueltas: 19
+Elementos en total: 934
+50elementos de la página 19
+Elementos insertados: 884
+2017-02-06 21:52:49: Insertamos {'num_request': 218.0, 'date': '2017-02-06 21:52:49', 'user': 'cbarajas'} peticiones en LogPeticion
+Usuario cbarajas tiene 218.0 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 3
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 4
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 5
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 6
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 7
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 8
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 9
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 10
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 11
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 12
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 13
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 14
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 15
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 16
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 17
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 18
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 19
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 20
+ **RESULTADOS LLAMADA**Páginas devueltas: 21
+Elementos en total: 1031
+50elementos de la página 21
+Elementos insertados: 981
+2017-02-06 21:57:45: Insertamos {'num_request': 239.0, 'date': '2017-02-06 21:57:45', 'user': 'cbarajas'} peticiones en LogPeticion
+Usuario cbarajas tiene 239.0 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 568
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 568
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 568
+50elementos de la página 3
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 568
+50elementos de la página 4
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 568
+50elementos de la página 5
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 568
+50elementos de la página 6
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 568
+50elementos de la página 7
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 568
+50elementos de la página 8
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 568
+50elementos de la página 9
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 568
+50elementos de la página 10
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 568
+50elementos de la página 11
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 568
+50elementos de la página 12
+Elementos insertados: 518
+2017-02-06 21:59:17: Insertamos {'num_request': 251.0, 'date': '2017-02-06 21:59:17', 'user': 'cbarajas'} peticiones en LogPeticion
+Usuario cbarajas tiene 251.0 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 567
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 567
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 567
+50elementos de la página 3
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 567
+50elementos de la página 4
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 567
+50elementos de la página 5
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 567
+50elementos de la página 6
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 567
+50elementos de la página 7
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 567
+50elementos de la página 8
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 567
+50elementos de la página 9
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 567
+50elementos de la página 10
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 567
+50elementos de la página 11
+ **RESULTADOS LLAMADA**Páginas devueltas: 12
+Elementos en total: 567
+50elementos de la página 12
+Elementos insertados: 517
+2017-02-06 22:04:17: Insertamos {'num_request': 263.0, 'date': '2017-02-06 22:04:17', 'user': 'cbarajas'} peticiones en LogPeticion
+Usuario cbarajas tiene 263.0 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 627
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 627
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 627
+50elementos de la página 3
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 627
+50elementos de la página 4
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 627
+50elementos de la página 5
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 627
+50elementos de la página 6
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 627
+50elementos de la página 7
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 627
+50elementos de la página 8
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 627
+50elementos de la página 9
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 627
+50elementos de la página 10
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 627
+50elementos de la página 11
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 627
+50elementos de la página 12
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 627
+50elementos de la página 13
+Elementos insertados: 577
+2017-02-06 22:07:45: Insertamos {'num_request': 276.0, 'date': '2017-02-06 22:07:45', 'user': 'cbarajas'} peticiones en LogPeticion
+Usuario cbarajas tiene 276.0 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 3
+Elementos en total: 112
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 3
+Elementos en total: 112
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 3
+Elementos en total: 112
+50elementos de la página 3
+Elementos insertados: 62
+2017-02-06 22:10:39: Insertamos {'num_request': 279.0, 'date': '2017-02-06 22:10:39', 'user': 'cbarajas'} peticiones en LogPeticion
+Usuario cbarajas tiene 279.0 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 623
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 623
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 623
+50elementos de la página 3
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 623
+50elementos de la página 4
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 623
+50elementos de la página 5
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 623
+50elementos de la página 6
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 623
+50elementos de la página 7
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 623
+50elementos de la página 8
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 623
+50elementos de la página 9
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 623
+50elementos de la página 10
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 623
+50elementos de la página 11
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 623
+50elementos de la página 12
+ **RESULTADOS LLAMADA**Páginas devueltas: 13
+Elementos en total: 623
+50elementos de la página 13
+Elementos insertados: 573
+2017-02-06 22:11:21: Insertamos {'num_request': 292.0, 'date': '2017-02-06 22:11:21', 'user': 'cbarajas'} peticiones en LogPeticion
+Usuario cbarajas tiene 292.0 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 31
+Elementos en total: 1528
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 31
+Elementos en total: 1528
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 31
+Elementos en total: 1528
+50elementos de la página 3
+ **RESULTADOS LLAMADA**Páginas devueltas: 31
+Elementos en total: 1528
+50elementos de la página 4
+ **RESULTADOS LLAMADA**Páginas devueltas: 31
+Elementos en total: 1528
+50elementos de la página 5
+ **RESULTADOS LLAMADA**Páginas devueltas: 31
+Elementos en total: 1528
+50elementos de la página 6
+ **RESULTADOS LLAMADA**Páginas devueltas: 31
+Elementos en total: 1528
+50elementos de la página 7
+ **RESULTADOS LLAMADA**Páginas devueltas: 31
+Elementos en total: 1528
+50elementos de la página 8
+ **RESULTADOS LLAMADA**Páginas devueltas: 31
+Elementos en total: 1528
+50elementos de la página 9
+ **RESULTADOS LLAMADA**Páginas devueltas: 31
+Elementos en total: 1528
+50elementos de la página 10
+ **RESULTADOS LLAMADA**Páginas devueltas: 31
+Elementos en total: 1528
+50elementos de la página 11
+ **RESULTADOS LLAMADA**Páginas devueltas: 31
+Elementos en total: 1528
+50elementos de la página 12
+ **RESULTADOS LLAMADA**Páginas devueltas: 31
+Elementos en total: 1528
+50elementos de la página 13
+Error 500 en la petición a la API
+CB llegó al limite de peticiones.Se inicializa
+2017-02-06 22:14:17: Insertamos {'num_request': 0, 'date': '2017-02-06 22:14:17', 'user': 'cbarajas'} peticiones en LogPeticion
+Elementos insertados: 600
+2017-02-06 22:14:17: Insertamos {'num_request': 306.0, 'date': '2017-02-06 22:14:17', 'user': 'cbarajas'} peticiones en LogPeticion

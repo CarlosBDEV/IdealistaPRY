@@ -1,0 +1,54 @@
+Coordenadas de entrada... 40.38722,-3.65321Radio de busqueda........  1500[INFO] Páginas devueltas: 2
+[INFO] Elementos en total : 94
+Coordenadas de entrada... 40.38722,-3.65321Radio de busqueda........  1500[INFO] Páginas devueltas: 2
+[INFO] Elementos en total : 94
+Coordenadas de entrada... 40.40777,-3.64355Radio de busqueda........  1500[INFO] Páginas devueltas: 2
+[INFO] Elementos en total : 85
+Coordenadas de entrada... 40.40777,-3.64355Radio de busqueda........  1500[INFO] Páginas devueltas: 2
+[INFO] Elementos en total : 85
+Coordenadas de entrada... 40.43388,-3.62909Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 106
+Coordenadas de entrada... 40.43388,-3.62909Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 106
+Coordenadas de entrada... 40.43388,-3.62909Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 106
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 6
+[INFO] Elementos en total : 263
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 6
+[INFO] Elementos en total : 263
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 6
+[INFO] Elementos en total : 263
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 6
+[INFO] Elementos en total : 263
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 6
+[INFO] Elementos en total : 263
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 6
+[INFO] Elementos en total : 263
+Coordenadas de entrada... 40.46516,-3.64819Radio de busqueda........  1500[INFO] Páginas devueltas: 2
+[INFO] Elementos en total : 99
+Coordenadas de entrada... 40.46516,-3.64819Radio de busqueda........  1500[INFO] Páginas devueltas: 2
+[INFO] Elementos en total : 99
+Coordenadas de entrada... 40.38722,-3.65321Radio de busqueda........  1500[INFO] Páginas devueltas: 2
+[INFO] Elementos en total : 55
+Coordenadas de entrada... 40.38722,-3.65321Radio de busqueda........  1500[INFO] Páginas devueltas: 2
+[INFO] Elementos en total : 55
+Coordenadas de entrada... 40.40777,-3.64355Radio de busqueda........  1500[INFO] Páginas devueltas: 1
+[INFO] Elementos en total : 26
+Coordenadas de entrada... 40.43388,-3.62909Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 139
+Coordenadas de entrada... 40.43388,-3.62909Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 139
+Coordenadas de entrada... 40.43388,-3.62909Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 139
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 4
+[INFO] Elementos en total : 165
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 4
+[INFO] Elementos en total : 165
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 4
+[INFO] Elementos en total : 165
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 4
+[INFO] Elementos en total : 165
+Coordenadas de entrada... 40.46516,-3.64819Radio de busqueda........  1500[INFO] Páginas devueltas: 2
+[INFO] Elementos en total : 70
+Coordenadas de entrada... 40.46516,-3.64819Radio de busqueda........  1500[INFO] Páginas devueltas: 2
+[INFO] Elementos en total : 70

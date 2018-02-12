@@ -1,0 +1,281 @@
+Usuario usuario4 tiene 0 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 7
+Elementos en total: 339
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 7
+Elementos en total: 339
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 7
+Elementos en total: 339
+50elementos de la página 3
+ **RESULTADOS LLAMADA**Páginas devueltas: 7
+Elementos en total: 339
+50elementos de la página 4
+ **RESULTADOS LLAMADA**Páginas devueltas: 7
+Elementos en total: 339
+50elementos de la página 5
+ **RESULTADOS LLAMADA**Páginas devueltas: 7
+Elementos en total: 339
+50elementos de la página 6
+ **RESULTADOS LLAMADA**Páginas devueltas: 7
+Elementos en total: 339
+50elementos de la página 7
+Elementos insertados: 289
+2017-01-25 13:15:48: Insertamos {'user': 'usuario4', 'date': '2017-01-25 13:15:48', 'num_request': 7} peticiones en LogPeticion
+Usuario usuario4 tiene 7 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 3
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 4
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 5
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 6
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 7
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 8
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 9
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 10
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 11
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 12
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 13
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 14
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 15
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 16
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 17
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 18
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 19
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 961
+50elementos de la página 20
+Elementos insertados: 911
+2017-01-25 13:16:57: Insertamos {'user': 'usuario4', 'date': '2017-01-25 13:16:57', 'num_request': 27} peticiones en LogPeticion
+Usuario usuario4 tiene 27 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 1
+Elementos en total: 49
+50elementos de la página 1
+Elementos insertados: 0
+2017-01-25 13:17:59: Insertamos {'user': 'usuario4', 'date': '2017-01-25 13:17:59', 'num_request': 28} peticiones en LogPeticion
+Usuario usuario4 tiene 28 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 1
+Elementos en total: 47
+50elementos de la página 1
+Elementos insertados: 0
+2017-01-25 13:18:24: Insertamos {'user': 'usuario4', 'date': '2017-01-25 13:18:24', 'num_request': 29} peticiones en LogPeticion
+Usuario usuario4 tiene 29 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 3
+Elementos en total: 134
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 3
+Elementos en total: 134
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 3
+Elementos en total: 134
+50elementos de la página 3
+Elementos insertados: 84
+2017-01-25 13:19:07: Insertamos {'user': 'usuario4', 'date': '2017-01-25 13:19:07', 'num_request': 32} peticiones en LogPeticion
+Usuario usuario4 tiene 32 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 3
+Elementos en total: 120
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 3
+Elementos en total: 120
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 3
+Elementos en total: 120
+50elementos de la página 3
+Elementos insertados: 70
+2017-01-25 13:19:44: Insertamos {'user': 'usuario4', 'date': '2017-01-25 13:19:44', 'num_request': 35} peticiones en LogPeticion
+Usuario usuario4 tiene 35 peticiones.
+Error 400 en la petición a la API
+Usuario usuario4 tiene 35 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 4
+Elementos en total: 189
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 4
+Elementos en total: 189
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 4
+Elementos en total: 189
+50elementos de la página 3
+ **RESULTADOS LLAMADA**Páginas devueltas: 4
+Elementos en total: 189
+50elementos de la página 4
+Elementos insertados: 139
+2017-01-25 13:20:23: Insertamos {'user': 'usuario4', 'date': '2017-01-25 13:20:23', 'num_request': 39} peticiones en LogPeticion
+Usuario usuario4 tiene 39 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 3
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 4
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 5
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 6
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 7
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 8
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 9
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 10
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 11
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 12
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 13
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 14
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 15
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 16
+ **RESULTADOS LLAMADA**Páginas devueltas: 17
+Elementos en total: 845
+50elementos de la página 17
+Elementos insertados: 795
+2017-01-25 13:40:53: Insertamos {'user': 'usuario4', 'date': '2017-01-25 13:40:53', 'num_request': 56} peticiones en LogPeticion
+Usuario usuario4 tiene 56 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 3
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 4
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 5
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 6
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 7
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 8
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 9
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 10
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 11
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 12
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 13
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 14
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 15
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 16
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 17
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 18
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 19
+ **RESULTADOS LLAMADA**Páginas devueltas: 20
+Elementos en total: 987
+50elementos de la página 20
+Elementos insertados: 937
+2017-01-25 15:13:24: Insertamos {'user': 'usuario4', 'date': '2017-01-25 15:13:24', 'num_request': 76} peticiones en LogPeticion
+Usuario usuario4 tiene 76 peticiones.
+ **RESULTADOS LLAMADA**Páginas devueltas: 7
+Elementos en total: 346
+50elementos de la página 1
+ **RESULTADOS LLAMADA**Páginas devueltas: 7
+Elementos en total: 346
+50elementos de la página 2
+ **RESULTADOS LLAMADA**Páginas devueltas: 7
+Elementos en total: 346
+50elementos de la página 3
+ **RESULTADOS LLAMADA**Páginas devueltas: 7
+Elementos en total: 346
+50elementos de la página 4
+ **RESULTADOS LLAMADA**Páginas devueltas: 7
+Elementos en total: 346
+50elementos de la página 5
+ **RESULTADOS LLAMADA**Páginas devueltas: 7
+Elementos en total: 346
+50elementos de la página 6
+ **RESULTADOS LLAMADA**Páginas devueltas: 7
+Elementos en total: 346
+50elementos de la página 7
+Elementos insertados: 296
+2017-01-25 15:17:31: Insertamos {'user': 'usuario4', 'date': '2017-01-25 15:17:31', 'num_request': 83} peticiones en LogPeticion

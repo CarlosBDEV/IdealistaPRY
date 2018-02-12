@@ -1,0 +1,13 @@
+Usuario usuario2 tiene None peticiones.
+Error 500 en la petición a la API
+Nuevo Usuario :usuario2Usuario usuario2 tiene None peticiones.
+Error 500 en la petición a la API
+Nuevo Usuario :usuario22017-01-22 16:42:54: Insertamos {'user': 'usuario2', 'num_request': 0, 'date': '2017-01-22 16:42:54'} peticiones en LogPeticion
+Usuario usuario2 tiene 0 peticiones.
+Error 500 en la petición a la API
+Nuevo Usuario :usuario32017-01-22 16:43:15: Insertamos {'user': 'usuario3', 'num_request': 0, 'date': '2017-01-22 16:43:15'} peticiones en LogPeticion
+Usuario usuario3 tiene 0 peticiones.
+Error 500 en la petición a la API
+Nuevo Usuario :usuario42017-01-22 16:43:54: Insertamos {'user': 'usuario4', 'num_request': 0, 'date': '2017-01-22 16:43:54'} peticiones en LogPeticion
+Usuario usuario4 tiene 0 peticiones.
+Error 500 en la petición a la API

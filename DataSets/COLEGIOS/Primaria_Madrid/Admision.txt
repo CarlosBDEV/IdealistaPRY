@@ -1,0 +1,2076 @@
+28004266PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 45 37 47 45 41
+Admitidas 25 27 30 27 25
+No admitidas 20 10 17 18 16;
+28004552PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 22 20 28 30 23
+Admitidas 22 20 28 30 17
+No admitidas 0 0 0 0 6;
+28004904PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 50 63 54 46 39
+Admitidas 48 53 45 40 39
+No admitidas 2 10 9 6 0;
+28004941PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 10 15 11 9 5
+Admitidas 10 14 11 9 4
+No admitidas 0 1 0 0 1;
+28004965PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 68 83 88 70 60
+Admitidas 51 54 53 49 52
+No admitidas 17 29 35 21 8;
+28004989PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 29 18 17 16 16
+Admitidas 29 18 17 16 14
+No admitidas 0 0 0 0 2;
+28004990PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 72 55 49 53 73
+Admitidas 56 46 44 50 71
+No admitidas 16 9 5 3 2;
+28005003PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 27 17 16 12 17
+Admitidas 24 14 16 10 17
+No admitidas 3 3 0 2 0;
+28005039PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 44 56 49 47 30
+Admitidas 38 53 43 43 26
+No admitidas 6 3 6 4 4;
+28005076PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 73 68 35 66 55
+Admitidas 52 50 35 53 51
+No admitidas 21 18 0 13 4;
+28005091PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 22 32 18 18 15
+Admitidas 19 31 14 17 14
+No admitidas 3 1 4 1 1;
+28005106PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 32 20 29 24 29
+Admitidas 32 20 27 22 25
+No admitidas 0 0 2 2 4;
+28005131PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 13 14 14 16 25
+Admitidas 10 14 14 16 21
+No admitidas 3 0 0 0 4;
+28005155PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 17 17 23 19 22
+Admitidas 17 17 23 17 19
+No admitidas 0 0 0 2 3;
+28005167PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 57 82 64 63 54
+Admitidas 47 50 52 53 47
+No admitidas 10 32 12 10 7;
+28005179PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 51 49 36 43 37
+Admitidas 40 46 31 36 36
+No admitidas 11 3 5 7 1;
+28005210PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 35 15 20 21 13
+Admitidas 29 15 20 21 13
+No admitidas 6 0 0 0 0;
+28005234PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 111 88 85 85 88
+Admitidas 96 82 84 85 86
+No admitidas 15 6 1 0 2;
+28005246PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 58 60 72 66 46
+Admitidas 49 53 66 65 46
+No admitidas 9 7 6 1 0;
+28005258PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 31 21 23 16 18
+Admitidas 25 21 23 15 18
+No admitidas 6 0 0 1 0;
+28005261PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 27 24 24 14 13
+Admitidas 26 24 23 14 13
+No admitidas 1 0 1 0 0;
+28005271PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 93 93 76 79 77
+Admitidas 76 80 74 73 68
+No admitidas 17 13 2 6 9;
+28005295PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 50 45 45 27 28
+Admitidas 44 44 42 26 28
+No admitidas 6 1 3 1 0;
+28005349PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 44 38 62 35 37
+Admitidas 27 30 27 28 25
+No admitidas 17 8 35 7 12;
+28005350PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 51 39 45 39 30
+Admitidas 43 28 41 38 27
+No admitidas 8 11 4 1 3;
+28005374PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 12 7 12 5 5
+Admitidas 12 7 12 5 5
+No admitidas 0 0 0 0 0;
+28005386PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 14 18 22 27 6
+Admitidas 14 15 19 25 6
+No admitidas 0 3 3 2 0;
+28005404PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 59 58 59 36 55
+Admitidas 51 41 45 33 38
+No admitidas 8 17 14 3 17;
+28005431PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 49 64 74 49 52
+Admitidas 47 61 60 46 47
+No admitidas 2 3 14 3 5;
+28005441PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 54 52 67 60 29
+Admitidas 51 52 50 51 25
+No admitidas 3 0 17 9 4;
+28005465PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 54 47 35 37 36
+Admitidas 47 42 34 37 35
+No admitidas 7 5 1 0 1;
+28005477PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 52 58 42 36 52
+Admitidas 52 57 38 35 44
+No admitidas 0 1 4 1 8;
+28005489PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 44 40 37 26 35
+Admitidas 44 40 36 26 35
+No admitidas 0 0 1 0 0;
+28005490PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 64 66 69 56 85
+Admitidas 49 55 50 49 75
+No admitidas 15 11 19 7 10;
+28005519PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 44 40 32 31 22
+Admitidas 39 32 26 31 19
+No admitidas 5 8 6 0 3;
+28005568PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 51 56 56 30 27
+Admitidas 41 53 46 29 23
+No admitidas 10 3 10 1 4;
+28005571PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 30 18 10 15 19
+Admitidas 30 18 9 15 19
+No admitidas 0 0 1 0 0;
+28005601PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 40 46 46 34 31
+Admitidas 38 38 38 30 26
+No admitidas 2 8 8 4 5;
+28005623PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 55 31 61 53 47
+Admitidas 46 24 55 47 38
+No admitidas 9 7 6 6 9;
+28005635PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 9 6 14 5 3
+Admitidas 7 6 14 5 3
+No admitidas 2 0 0 0 0;
+28005660PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 8 15 10 12 12
+Admitidas 7 14 10 12 12
+No admitidas 1 1 0 0 0;
+28005684PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 28 18 20 13 13
+Admitidas 28 18 20 13 13
+No admitidas 0 0 0 0 0;
+28005696PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 146 123 107 122 102
+Admitidas 104 108 98 109 93
+No admitidas 42 15 9 13 9;
+28005714PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 19 24 11 8 8
+Admitidas 18 24 10 8 7
+No admitidas 1 0 1 0 1;
+28005726PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 28 28 43 41 41
+Admitidas 25 28 37 41 37
+No admitidas 3 0 6 0 4;
+28005738PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2015-2016 2016-2017
+Presentadas 37 28
+Admitidas 28 25
+No admitidas 9 3;
+28005741PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 24 20 15 11 17
+Admitidas 21 19 14 11 15
+No admitidas 3 1 1 0 2;
+28005763PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 26 37 25 18 20
+Admitidas 24 28 20 15 20
+No admitidas 2 9 5 3 0;
+28005787PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas)
+Presentadas
+Admitidas
+No admitidas;
+28005799PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 79 52 48 45 36
+Admitidas 51 49 44 44 34
+No admitidas 28 3 4 1 2;
+28005817PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 48 56 31 33 39
+Admitidas 37 52 29 33 36
+No admitidas 11 4 2 0 3;
+28005830PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 9 11 10 14 15
+Admitidas 9 11 10 14 14
+No admitidas 0 0 0 0 1;
+28005842PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 24 46 51 38 52
+Admitidas 24 33 30 28 23
+No admitidas 0 13 21 10 29;
+28005854PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 24 31 25 21 30
+Admitidas 19 29 21 15 27
+No admitidas 5 2 4 6 3;
+28005866PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 22 20 11 20 10
+Admitidas 21 20 11 20 10
+No admitidas 1 0 0 0 0;
+28005878PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 4 7 7 5 5
+Admitidas 4 7 7 5 4
+No admitidas 0 0 0 0 1;
+28005881PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 47 37 31 38 38
+Admitidas 46 36 31 38 38
+No admitidas 1 1 0 0 0;
+28005891PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 25 18 11 17 20
+Admitidas 21 18 11 17 20
+No admitidas 4 0 0 0 0;
+28005908PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 36 47 40 34 18
+Admitidas 32 45 40 34 18
+No admitidas 4 2 0 0 0;
+28005911PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 34 32 24 18 30
+Admitidas 32 32 24 18 22
+No admitidas 2 0 0 0 8;
+28005933PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 16 22 27 27 42
+Admitidas 15 21 24 18 42
+No admitidas 1 1 3 9 0;
+28005945PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 14 18 19 23 23
+Admitidas 14 18 19 23 23
+No admitidas 0 0 0 0 0;
+28005994PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 25 30 31 47 30
+Admitidas 24 22 28 44 25
+No admitidas 1 8 3 3 5;
+28006007PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 23 21 22 19 14
+Admitidas 21 15 20 18 14
+No admitidas 2 6 2 1 0;
+28006020PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 64 51 47 80 49
+Admitidas 55 49 45 51 39
+No admitidas 9 2 2 29 10;
+28006044PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 32 34 28 23 16
+Admitidas 31 34 27 23 15
+No admitidas 1 0 1 0 1;
+28006056PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 60 50 51 40 33
+Admitidas 60 50 51 38 33
+No admitidas 0 0 0 2 0;
+28006068PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 28 30 20 43 32
+Admitidas 28 30 20 43 24
+No admitidas 0 0 0 0 8;
+28006071PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 36 28 18 20 23
+Admitidas 27 25 13 16 20
+No admitidas 9 3 5 4 3;
+28006101PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 56 62 52 51 44
+Admitidas 43 55 43 48 41
+No admitidas 13 7 9 3 3;
+28006111PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 62 46 48 56 59
+Admitidas 50 43 41 50 52
+No admitidas 12 3 7 6 7;
+28006123PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 115 112 129 96 121
+Admitidas 81 87 82 80 77
+No admitidas 34 25 47 16 44;
+28006135PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 34 32 29 21 16
+Admitidas 27 25 28 19 15
+No admitidas 7 7 1 2 1;
+28006159PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 41 19 37 22 20
+Admitidas 41 19 36 16 17
+No admitidas 0 0 1 6 3;
+28006160PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 18 10 11 11 10
+Admitidas 18 10 8 11 9
+No admitidas 0 0 3 0 1;
+28006172PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 63 41 35 30 33
+Admitidas 62 37 31 29 26
+No admitidas 1 4 4 1 7;
+28006184PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 10 10 12 8 13
+Admitidas 10 10 12 8 13
+No admitidas 0 0 0 0 0;
+28006196PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 45 37 41 31 32
+Admitidas 45 29 38 26 32
+No admitidas 0 8 3 5 0;
+28006202PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 33 38 23 34 37
+Admitidas 32 38 22 26 23
+No admitidas 1 0 1 8 14;
+28006214PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 39 57 44 21 23
+Admitidas 39 55 43 21 23
+No admitidas 0 2 1 0 0;
+28006238PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 65 73 73 47 76
+Admitidas 51 55 52 47 51
+No admitidas 14 18 21 0 25;
+28006251PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 51 48 32 36 40
+Admitidas 47 48 32 36 37
+No admitidas 4 0 0 0 3;
+28006263PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 28 44 37 20 22
+Admitidas 25 32 37 18 19
+No admitidas 3 12 0 2 3;
+28006275PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 74 60 65 67 61
+Admitidas 50 51 55 66 53
+No admitidas 24 9 10 1 8;
+28006305PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 80 50 51 61 47
+Admitidas 25 25 25 23 25
+No admitidas 55 25 26 38 22;
+28006317PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 20 34 25 29 22
+Admitidas 19 25 24 26 22
+No admitidas 1 9 1 3 0;
+28006329PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 49 63 37 25 25
+Admitidas 46 58 31 25 25
+No admitidas 3 5 6 0 0;
+28006354PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 20 21 20 28 28
+Admitidas 20 21 20 28 26
+No admitidas 0 0 0 0 2;
+28006366PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 21 27 23 17 31
+Admitidas 20 25 19 15 25
+No admitidas 1 2 4 2 6;
+28006378PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 65 44 44 70 61
+Admitidas 57 43 41 53 50
+No admitidas 8 1 3 17 11;
+28006381PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 24 21 13 18 18
+Admitidas 24 21 13 15 13
+No admitidas 0 0 0 3 5;
+28006391PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 58 51 34 65 59
+Admitidas 46 46 34 61 54
+No admitidas 12 5 0 4 5;
+28006408PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 93 87 92 139 118
+Admitidas 74 74 85 128 101
+No admitidas 19 13 7 11 17;
+28006411PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 15 15 16 11 6
+Admitidas 14 15 15 10 6
+No admitidas 1 0 1 1 0;
+28006457PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 28 20 22 28 24
+Admitidas 23 18 20 27 22
+No admitidas 5 2 2 1 2;
+28006469PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 20 19 23 22 24
+Admitidas 15 16 22 22 18
+No admitidas 5 3 1 0 6;
+28006779PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 41 25 40 21 37
+Admitidas 25 24 29 20 22
+No admitidas 16 1 11 1 15;
+28006809PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas)
+Presentadas
+Admitidas
+No admitidas;
+28007103PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 53 62 58 61 51
+Admitidas 53 62 58 61 51
+No admitidas 0 0 0 0 0;
+28007127PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 56 63 59 55 49
+Admitidas 56 63 59 49 40
+No admitidas 0 0 0 6 9;
+28007139PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 41 23 36 32 19
+Admitidas 41 23 36 32 19
+No admitidas 0 0 0 0 0;
+28007152PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 53 42 44 50 54
+Admitidas 52 42 44 48 48
+No admitidas 1 0 0 2 6;
+28007191PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 143 125 123 118 112
+Admitidas 83 84 86 84 75
+No admitidas 60 41 37 34 37;
+28007292PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 45 43 43 37 29
+Admitidas 44 43 43 37 29
+No admitidas 1 0 0 0 0;
+28007309PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 35 39 41 30 32
+Admitidas 30 34 31 29 25
+No admitidas 5 5 10 1 7;
+28007371PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 22 14 19 14 15
+Admitidas 18 13 16 12 14
+No admitidas 4 1 3 2 1;
+28007395PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 61 54 83 80 57
+Admitidas 59 53 82 74 55
+No admitidas 2 1 1 6 2;
+28007607PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 85 82 77 67 85
+Admitidas 84 82 77 66 81
+No admitidas 1 0 0 1 4;
+28007826PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 42 43 41 36 45
+Admitidas 42 43 41 36 45
+No admitidas 0 0 0 0 0;
+28007917PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 47 37 39 36 36
+Admitidas 47 37 39 35 33
+No admitidas 0 0 0 1 3;
+28007942PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 11 29 28 22 22
+Admitidas 10 28 28 21 22
+No admitidas 1 1 0 1 0;
+28007954PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 3 12 12 9 10
+Admitidas 3 12 12 9 10
+No admitidas 0 0 0 0 0;
+28007991PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 107 79 79 75 92
+Admitidas 92 79 79 75 81
+No admitidas 15 0 0 0 11;
+28008016PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas)
+Presentadas
+Admitidas
+No admitidas;
+28008053PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 24 22 20 8 17
+Admitidas 23 20 17 8 17
+No admitidas 1 2 3 0 0;
+28008107PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 70 86 102 85 78
+Admitidas 69 86 91 78 75
+No admitidas 1 0 11 7 3;
+28008211PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 114 98 97 118 104
+Admitidas 114 98 97 114 100
+No admitidas 0 0 0 4 4;
+28008223PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 23 18 21 14 8
+Admitidas 23 18 21 14 8
+No admitidas 0 0 0 0 0;
+28008296PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 14 22 15 14 18
+Admitidas 13 22 15 11 16
+No admitidas 1 0 0 3 2;
+28008387PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 29 35 33 37 28
+Admitidas 25 27 25 26 25
+No admitidas 4 8 8 11 3;
+28008405PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 116 110 85 83 89
+Admitidas 116 107 83 83 89
+No admitidas 0 3 2 0 0;
+28008430PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 33 23 32 18 22
+Admitidas 31 23 29 18 21
+No admitidas 2 0 3 0 1;
+28008508PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 63 58 62 45 54
+Admitidas 55 55 58 44 51
+No admitidas 8 3 4 1 3;
+28008511PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 186 184 182 151 137
+Admitidas 78 84 84 81 75
+No admitidas 108 100 98 70 62;
+28008600PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 9 8 5 7 8
+Admitidas 9 7 5 7 7
+No admitidas 0 1 0 0 1;
+28008703PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 74 81 115 97 104
+Admitidas 73 80 93 89 75
+No admitidas 1 1 22 8 29;
+28008791PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 17 19 20 7 11
+Admitidas 17 18 20 7 11
+No admitidas 0 1 0 0 0;
+28008892PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 109 117 139 128 107
+Admitidas 98 112 117 101 97
+No admitidas 11 5 22 27 10;
+28008909PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 100 97 76 91 90
+Admitidas 89 97 69 88 76
+No admitidas 11 0 7 3 14;
+28008910PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 22 30 24 13 13
+Admitidas 21 28 18 12 13
+No admitidas 1 2 6 1 0;
+28008922PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 25 40 33 32 42
+Admitidas 20 36 33 28 25
+No admitidas 5 4 0 4 17;
+28008934PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 76 70 69 93 66
+Admitidas 72 70 69 91 63
+No admitidas 4 0 0 2 3;
+28008946PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 80 100 91 94 104
+Admitidas 80 90 88 88 72
+No admitidas 0 10 3 6 32;
+28008958PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 46 58 56 44 41
+Admitidas 44 54 56 43 38
+No admitidas 2 4 0 1 3;
+28008995PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 23 28 24 24 29
+Admitidas 14 20 22 23 22
+No admitidas 9 8 2 1 7;
+28009033PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 105 115 89 81 77
+Admitidas 85 98 87 81 74
+No admitidas 20 17 2 0 3;
+28009082PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 42 53 36 38 29
+Admitidas 24 29 27 26 25
+No admitidas 18 24 9 12 4;
+28009185PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas)
+Presentadas
+Admitidas
+No admitidas;
+28009203PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 59 54 54 52 54
+Admitidas 51 50 53 52 50
+No admitidas 8 4 1 0 4;
+28009215PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 73 69 45 44 60
+Admitidas 61 61 44 44 48
+No admitidas 12 8 1 0 12;
+28009264PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 54 64 50 44 35
+Admitidas 54 64 50 43 35
+No admitidas 0 0 0 1 0;
+28009291PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 99 74 70 78 67
+Admitidas 70 55 55 65 48
+No admitidas 29 19 15 13 19;
+28009422PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas)
+Presentadas
+Admitidas
+No admitidas;
+28009446PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 116 136 119 111 93
+Admitidas 82 84 82 82 61
+No admitidas 34 52 37 29 32;
+28009458PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 10 10 15 13 6
+Admitidas 10 9 15 13 6
+No admitidas 0 1 0 0 0;
+28009495PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 25 16 22 35 20
+Admitidas 25 16 22 35 17
+No admitidas 0 0 0 0 3;
+28009525PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 80 77 80 68 84
+Admitidas 78 77 80 68 62
+No admitidas 2 0 0 0 22;
+28009549PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 79 73 90 92 75
+Admitidas 70 72 88 88 61
+No admitidas 9 1 2 4 14;
+28009586PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 30 48 57 46 59
+Admitidas 30 48 57 44 50
+No admitidas 0 0 0 2 9;
+28009604PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 21 20 20 17 10
+Admitidas 19 19 18 15 9
+No admitidas 2 1 2 2 1;
+28009641PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 197 183 147 138 135
+Admitidas 115 115 111 108 100
+No admitidas 82 68 36 30 35;
+28009653PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 20 16 20 5 15
+Admitidas 19 15 20 4 13
+No admitidas 1 1 0 1 2;
+28009781PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 24 22 25 27 26
+Admitidas 23 21 25 27 24
+No admitidas 1 1 0 0 2;
+28009793PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 75 35 54 51 48
+Admitidas 52 34 53 48 44
+No admitidas 23 1 1 3 4;
+28009801PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 27 21 33 17 20
+Admitidas 23 16 30 15 16
+No admitidas 4 5 3 2 4;
+28009823PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 57 35 39 29 43
+Admitidas 53 30 37 29 43
+No admitidas 4 5 2 0 0;
+28010060PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 37 36 39 28 34
+Admitidas 37 36 37 27 32
+No admitidas 0 0 2 1 2;
+28010357PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 13 26 15 15 27
+Admitidas 13 26 15 14 27
+No admitidas 0 0 0 1 0;
+28010394PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 63 70 65 68 56
+Admitidas 48 54 54 47 49
+No admitidas 15 16 11 21 7;
+28010412PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 36 44 29 37 52
+Admitidas 36 44 29 37 52
+No admitidas 0 0 0 0 0;
+28010424PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 18 17 19 16 13
+Admitidas 15 17 19 16 13
+No admitidas 3 0 0 0 0;
+28010436PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 106 103 99 103 82
+Admitidas 87 90 89 84 75
+No admitidas 19 13 10 19 7;
+28010448PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 33 34 28 14 27
+Admitidas 30 29 27 14 25
+No admitidas 3 5 1 0 2;
+28010461PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 37 35 41 28 27
+Admitidas 32 35 41 28 27
+No admitidas 5 0 0 0 0;
+28010473PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 16 28 23 20 13
+Admitidas 16 28 19 16 12
+No admitidas 0 0 4 4 1;
+28010497PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 60 66 41 47 39
+Admitidas 51 58 40 44 38
+No admitidas 9 8 1 3 1;
+28010503PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 55 46 60 25 41
+Admitidas 51 42 51 23 26
+No admitidas 4 4 9 2 15;
+28010527PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 43 19 22 21 10
+Admitidas 42 19 22 20 10
+No admitidas 1 0 0 1 0;
+28010539PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 21 25 15 7 14
+Admitidas 18 25 12 7 14
+No admitidas 3 0 3 0 0;
+28010540PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 66 56 55 51 35
+Admitidas 66 56 55 42 31
+No admitidas 0 0 0 9 4;
+28010552PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 12 12 10 14 12
+Admitidas 12 12 10 14 12
+No admitidas 0 0 0 0 0;
+28010576PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 55 48 36 35 48
+Admitidas 48 48 36 34 47
+No admitidas 7 0 0 1 1;
+28010591PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 16 13 13 8 16
+Admitidas 15 13 13 7 16
+No admitidas 1 0 0 1 0;
+28010606PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 43 34 34 39 41
+Admitidas 43 34 34 39 41
+No admitidas 0 0 0 0 0;
+28010618PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 34 35 50 36 40
+Admitidas 34 35 48 32 40
+No admitidas 0 0 2 4 0;
+28010643PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 12 17 14 14 13
+Admitidas 11 17 14 14 13
+No admitidas 1 0 0 0 0;
+28010655PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 4 16 7 4 5
+Admitidas 4 16 7 4 5
+No admitidas 0 0 0 0 0;
+28010679PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 41 34 25 23 26
+Admitidas 41 34 25 23 21
+No admitidas 0 0 0 0 4;
+28010680PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 22 17 24 17 15
+Admitidas 22 17 22 17 15
+No admitidas 0 0 2 0 0;
+28010710PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 60 74 60 68 58
+Admitidas 60 62 57 53 52
+No admitidas 0 12 3 15 6;
+28010722PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 207 237 219 181 176
+Admitidas 179 173 166 160 150
+No admitidas 28 64 53 21 26;
+28010746PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 107 81 72 111 90
+Admitidas 79 70 62 75 75
+No admitidas 28 11 10 36 15;
+28010761PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 37 27 23 26 36
+Admitidas 27 23 17 16 25
+No admitidas 10 4 6 10 11;
+28010771PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 71 47 65 58 52
+Admitidas 48 44 54 51 50
+No admitidas 23 3 11 7 2;
+28010783PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 21 23 17 31 30
+Admitidas 20 23 16 31 29
+No admitidas 1 0 1 0 1;
+28010795PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 61 75 76 58 56
+Admitidas 48 53 55 50 52
+No admitidas 13 22 21 8 4;
+28010801PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 58 57 88 86 82
+Admitidas 54 51 88 77 76
+No admitidas 4 6 0 9 6;
+28010813PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 23 21 15 9 10
+Admitidas 23 21 15 9 10
+No admitidas 0 0 0 0 0;
+28010849PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 57 70 50 40 44
+Admitidas 48 57 45 35 40
+No admitidas 9 13 5 5 4;
+28010850PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 113 156 108 115 109
+Admitidas 97 113 100 97 100
+No admitidas 16 43 8 18 9;
+28010862PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 2 11 4 7 16
+Admitidas 2 8 4 7 11
+No admitidas 0 3 0 0 5;
+28010874PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 19 18 12 14 9
+Admitidas 16 18 12 14 8
+No admitidas 3 0 0 0 1;
+28010886PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 22 11 11 16 20
+Admitidas 22 11 11 16 17
+No admitidas 0 0 0 0 3;
+28010898PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 39 40 43 46 27
+Admitidas 38 32 43 44 26
+No admitidas 1 8 0 2 1;
+28010916PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 16 11 10 18 26
+Admitidas 16 10 10 18 26
+No admitidas 0 1 0 0 0;
+28010928PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 13 12 6 9 15
+Admitidas 13 12 6 9 14
+No admitidas 0 0 0 0 1;
+28010931PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 32 19 39 36 32
+Admitidas 27 19 28 28 25
+No admitidas 5 0 11 8 7;
+28010941PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 64 49 65 71 79
+Admitidas 49 43 52 53 53
+No admitidas 15 6 13 18 26;
+28010953PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 50 37 34 36 36
+Admitidas 49 36 33 28 26
+No admitidas 1 1 1 8 10;
+28010965PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 3 8 12 12 7
+Admitidas 3 8 12 12 7
+No admitidas 0 0 0 0 0;
+28010977PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 27 12 24 12 7
+Admitidas 27 10 24 12 7
+No admitidas 0 2 0 0 0;
+28010989PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 11 12 13 10 3
+Admitidas 11 12 13 10 3
+No admitidas 0 0 0 0 0;
+28010990PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 31 31 47 36 56
+Admitidas 31 29 47 35 51
+No admitidas 0 2 0 1 5;
+28011015PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 23 17 22 23 19
+Admitidas 19 15 22 22 19
+No admitidas 4 2 0 1 0;
+28011040PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 20 7 4 25 20
+Admitidas 18 7 3 25 20
+No admitidas 2 0 1 0 0;
+28011209PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 15 18 14 19 22
+Admitidas 15 18 14 19 22
+No admitidas 0 0 0 0 0;
+28011246PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 82 60 57 65 32
+Admitidas 54 53 53 54 31
+No admitidas 28 7 4 11 1;
+28011258PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 19 16 18 18 12
+Admitidas 18 16 18 18 12
+No admitidas 1 0 0 0 0;
+28011261PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 160 151 147 135 131
+Admitidas 114 123 112 110 111
+No admitidas 46 28 35 25 20;
+28011349PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 34 38 40 40 32
+Admitidas 29 28 27 27 22
+No admitidas 5 10 13 13 10;
+28011428PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 65 63 48 53 49
+Admitidas 50 48 40 46 40
+No admitidas 15 15 8 7 9;
+28011477PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 88 72 69 82 88
+Admitidas 88 72 69 80 72
+No admitidas 0 0 0 2 16;
+28011490PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 73 55 43 58 49
+Admitidas 72 54 43 58 48
+No admitidas 1 1 0 0 1;
+28011520PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 30 39 19 31 28
+Admitidas 25 29 16 31 24
+No admitidas 5 10 3 0 4;
+28011544PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 27 36 25 22 41
+Admitidas 26 36 24 22 40
+No admitidas 1 0 1 0 1;
+28011593PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 78 69 61 48 46
+Admitidas 72 62 55 47 46
+No admitidas 6 7 6 1 0;
+28011623PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 80 64 72 71 62
+Admitidas 76 63 71 70 55
+No admitidas 4 1 1 1 7;
+28011635PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 63 33 27 24 11
+Admitidas 59 30 25 24 11
+No admitidas 4 3 2 0 0;
+28011647PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 72 63 59 54 53
+Admitidas 71 63 59 54 53
+No admitidas 1 0 0 0 0;
+28011659PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 19 8 13 13 13
+Admitidas 19 8 13 13 13
+No admitidas 0 0 0 0 0;
+28011684PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 55 74 52 58 51
+Admitidas 53 54 48 52 46
+No admitidas 2 20 4 6 5;
+28011726PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 43 38 51 57 66
+Admitidas 43 38 49 48 42
+No admitidas 0 0 2 9 24;
+28011763PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 54 72 43 61 74
+Admitidas 50 71 41 60 52
+No admitidas 4 1 2 1 22;
+28011775PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 11 14 10 11 7
+Admitidas 11 14 10 11 7
+No admitidas 0 0 0 0 0;
+28011805PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 16 21 10 11 6
+Admitidas 16 19 10 11 6
+No admitidas 0 2 0 0 0;
+28011908PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 98 89 83 63 73
+Admitidas 94 79 81 62 67
+No admitidas 4 10 2 1 6;
+28011911PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 84 108 109 108 140
+Admitidas 84 108 109 108 96
+No admitidas 0 0 0 0 44;
+28011921PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 112 121 74 92 87
+Admitidas 92 116 69 89 77
+No admitidas 20 5 5 3 10;
+28011945PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 72 90 84 90 67
+Admitidas 61 87 82 89 62
+No admitidas 11 3 2 1 5;
+28011970PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 82 82 63 73 60
+Admitidas 54 59 52 61 50
+No admitidas 28 23 11 12 10;
+28012032PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 37 42 39 34 34
+Admitidas 36 42 39 34 34
+No admitidas 1 0 0 0 0;
+28012111PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 46 39 33 38 20
+Admitidas 44 36 29 37 20
+No admitidas 2 3 4 1 0;
+28012196PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 31 39 24 29 24
+Admitidas 28 38 24 29 23
+No admitidas 3 1 0 0 1;
+28012354PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 98 106 113 119 104
+Admitidas 93 88 84 88 72
+No admitidas 5 18 29 31 32;
+28012585PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 52 53 20 21 20
+Admitidas 25 26 17 20 17
+No admitidas 27 27 3 1 3;
+28012603PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 36 37 31 43 41
+Admitidas 19 32 19 27 25
+No admitidas 17 5 12 16 16;
+28012640PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 124 121 126 105 133
+Admitidas 95 75 75 72 75
+No admitidas 29 46 51 33 58;
+28012676PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 21 21 32 18 14
+Admitidas 16 18 30 16 13
+No admitidas 5 3 2 2 1;
+28012688PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 19 27 32 36 25
+Admitidas 19 27 32 31 25
+No admitidas 0 0 0 5 0;
+28012767PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 122 120 95 124 98
+Admitidas 116 120 95 115 91
+No admitidas 6 0 0 9 7;
+28012779PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 16 20 14 11 7
+Admitidas 16 18 14 11 7
+No admitidas 0 2 0 0 0;
+28012810PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 58 60 43 34 38
+Admitidas 53 54 41 33 30
+No admitidas 5 6 2 1 8;
+28012846PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 22 25 27 16 12
+Admitidas 20 25 27 16 12
+No admitidas 2 0 0 0 0;
+28012901PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 26 40 23 29 28
+Admitidas 26 40 22 28 28
+No admitidas 0 0 1 1 0;
+28012949PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 42 65 61 53 46
+Admitidas 42 59 60 50 42
+No admitidas 0 6 1 3 4;
+28012962PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 63 65 68 60 60
+Admitidas 49 52 49 52 46
+No admitidas 14 13 19 8 14;
+28013036PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 91 92 74 69 69
+Admitidas 52 56 50 53 44
+No admitidas 39 36 24 16 25;
+28013048PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 99 103 93 83 88
+Admitidas 93 95 93 68 40
+No admitidas 6 8 0 15 48;
+28013051PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 80 78 61 79 51
+Admitidas 80 78 60 77 51
+No admitidas 0 0 1 2 0;
+28013097PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 86 73 63 79 61
+Admitidas 81 71 61 76 56
+No admitidas 5 2 2 3 5;
+28013103PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 134 87 122 129 110
+Admitidas 116 87 117 116 100
+No admitidas 18 0 5 13 10;
+28013115PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 68 57 62 50 42
+Admitidas 58 53 53 49 41
+No admitidas 10 4 9 1 1;
+28013188PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 8 7 11 12 4
+Admitidas 8 7 11 12 4
+No admitidas 0 0 0 0 0;
+28013191PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 56 56 56 43 42
+Admitidas 55 56 56 42 41
+No admitidas 1 0 0 1 1;
+28013255PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 33 34 30 36 29
+Admitidas 33 33 30 36 29
+No admitidas 0 1 0 0 0;
+28013279PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 27 27 22 26 25
+Admitidas 24 24 20 24 23
+No admitidas 3 3 2 2 2;
+28013280PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 42 29 32 27 18
+Admitidas 42 15 32 26 18
+No admitidas 0 14 0 1 0;
+28013292PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2014-2015 2015-2016 2016-2017
+Presentadas 98 89 113
+Admitidas 73 73 73
+No admitidas 25 16 40;
+28013309PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 83 73 69 67 59
+Admitidas 47 50 50 48 52
+No admitidas 36 23 19 19 7;
+28013371PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 366 389 336 332 314
+Admitidas 154 125 135 135 125
+No admitidas 212 264 201 197 189;
+28013395PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 13 53 90 96 91
+Admitidas 13 52 60 75 63
+No admitidas 0 1 30 21 28;
+28013401PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 65 58 59 66 62
+Admitidas 47 50 54 46 40
+No admitidas 18 8 5 20 22;
+28013450PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 36 47 38 37 40
+Admitidas 34 45 38 36 40
+No admitidas 2 2 0 1 0;
+28013504PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 106 105 123 135 119
+Admitidas 106 104 123 112 102
+No admitidas 0 1 0 23 17;
+28013565PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 117 120 120 96 124
+Admitidas 88 109 115 96 104
+No admitidas 29 11 5 0 20;
+28013590PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 84 108 95 106 98
+Admitidas 54 57 50 54 50
+No admitidas 30 51 45 52 48;
+28013607PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 121 94 107 95 79
+Admitidas 77 85 85 91 67
+No admitidas 44 9 22 4 12;
+28013701PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 23 13 19 7 36
+Admitidas 23 12 19 7 27
+No admitidas 0 1 0 0 9;
+28013723PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 76 52 72 70 80
+Admitidas 76 51 72 70 74
+No admitidas 0 1 0 0 6;
+28013759PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 46 39 47 55 46
+Admitidas 24 25 26 27 23
+No admitidas 22 14 21 28 23;
+28013772PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 78 90 88 87 88
+Admitidas 73 85 83 83 75
+No admitidas 5 5 5 4 13;
+28013784PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 67 58 42 46 51
+Admitidas 58 56 40 46 47
+No admitidas 9 2 2 0 4;
+28013802PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 89 107 88 75 58
+Admitidas 57 62 63 56 50
+No admitidas 32 45 25 19 8;
+28013826PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 27 19 20 26 23
+Admitidas 27 19 19 23 20
+No admitidas 0 0 1 3 3;
+28013838PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 125 93 128 102 105
+Admitidas 93 85 95 86 72
+No admitidas 32 8 33 16 33;
+28013851PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 29 41 40 23 34
+Admitidas 29 41 39 23 34
+No admitidas 0 0 1 0 0;
+28013863PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 66 77 70 91 86
+Admitidas 54 57 54 59 50
+No admitidas 12 20 16 32 36;
+28013887PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas)
+Presentadas
+Admitidas
+No admitidas;
+28013966PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 22 15 23 22 24
+Admitidas 20 15 23 17 20
+No admitidas 2 0 0 5 4;
+28013991PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 29 31 20 27 24
+Admitidas 28 29 20 27 23
+No admitidas 1 2 0 0 1;
+28014065PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 34 59 33 30 32
+Admitidas 33 59 32 30 32
+No admitidas 1 0 1 0 0;
+28014107PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 7 18 4 2 11
+Admitidas 7 18 4 2 9
+No admitidas 0 0 0 0 2;
+28014193PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 79 57 79 99 86
+Admitidas 74 54 78 84 75
+No admitidas 5 3 1 15 11;
+28014235PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 37 31 41 42 51
+Admitidas 25 26 37 29 32
+No admitidas 12 5 4 13 19;
+28014272PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 9 12 12 11 11
+Admitidas 5 8 12 11 11
+No admitidas 4 4 0 0 0;
+28014363PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 40 48 36 44 41
+Admitidas 40 48 36 41 41
+No admitidas 0 0 0 3 0;
+28014417PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 111 92 81 114 88
+Admitidas 91 85 77 89 75
+No admitidas 20 7 4 25 13;
+28014454PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas)
+Presentadas
+Admitidas
+No admitidas;
+28014478PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 28 16 23 18 36
+Admitidas 28 16 22 18 32
+No admitidas 0 0 1 0 4;
+28014491PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2015-2016 2016-2017
+Presentadas 24 46
+Admitidas 24 42
+No admitidas 0 4;
+28014508PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 31 37 25 27 26
+Admitidas 30 37 25 27 26
+No admitidas 1 0 0 0 0;
+28014533PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 30 32 40 35 25
+Admitidas 27 31 39 31 23
+No admitidas 3 1 1 4 2;
+28014570PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 118 116 98 90 91
+Admitidas 79 80 75 83 63
+No admitidas 39 36 23 7 28;
+28014648PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 18 12 16 8 10
+Admitidas 18 11 16 8 10
+No admitidas 0 1 0 0 0;
+28014651PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 67 52 58 64 62
+Admitidas 32 28 29 30 24
+No admitidas 35 24 29 34 38;
+28014685PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 52 55 48 42 45
+Admitidas 47 51 47 40 45
+No admitidas 5 4 1 2 0;
+28014867PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 56 44 64 48 43
+Admitidas 50 43 59 46 40
+No admitidas 6 1 5 2 3;
+28014910PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2015-2016 2016-2017
+Presentadas 75 96
+Admitidas 75 80
+No admitidas 0 16;
+28014958PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 159 161 146 134 130
+Admitidas 103 101 122 114 100
+No admitidas 56 60 24 20 30;
+28015033PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 25 13 126 148 118
+Admitidas 25 13 87 109 85
+No admitidas 0 0 39 39 33;
+28015094PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 48 56 54 59 52
+Admitidas 47 55 47 52 48
+No admitidas 1 1 7 7 4;
+28015100PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 45 28 60 37 36
+Admitidas 45 28 58 37 36
+No admitidas 0 0 2 0 0;
+28015136PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 21 21 23 37 39
+Admitidas 21 20 23 28 22
+No admitidas 0 1 0 9 17;
+28015148PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 90 111 113 122 97
+Admitidas 89 109 112 119 91
+No admitidas 1 2 1 3 6;
+28015291PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 18 13 18 11 18
+Admitidas 18 13 18 11 18
+No admitidas 0 0 0 0 0;
+28015392PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 56 51 43 40 31
+Admitidas 32 34 28 28 25
+No admitidas 24 17 15 12 6;
+28015471PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 209 227 211 227 202
+Admitidas 172 194 168 168 150
+No admitidas 37 33 43 59 52;
+28015495PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 130 139 116 132 130
+Admitidas 115 128 112 117 100
+No admitidas 15 11 4 15 30;
+28015537PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 16 21 10 18 17
+Admitidas 14 19 10 16 13
+No admitidas 2 2 0 2 4;
+28015550PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 23 24 26 38 34
+Admitidas 22 23 25 25 17
+No admitidas 1 1 1 13 17;
+28015562PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 47 42 31 37 31
+Admitidas 43 38 31 37 31
+No admitidas 4 4 0 0 0;
+28015586PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 45 43 32 22 12
+Admitidas 43 42 32 20 9
+No admitidas 2 1 0 2 3;
+28015653PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 94 95 91 105 82
+Admitidas 94 95 91 105 77
+No admitidas 0 0 0 0 5;
+28015847PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 24 18 11 7 14
+Admitidas 22 17 11 7 14
+No admitidas 2 1 0 0 0;
+28015902PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 72 51 51 47 69
+Admitidas 68 49 51 46 59
+No admitidas 4 2 0 1 10;
+28015987PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 94 86 76 96 77
+Admitidas 92 84 76 91 69
+No admitidas 2 2 0 5 8;
+28016256PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 27 14 20 11 9
+Admitidas 24 14 18 11 9
+No admitidas 3 0 2 0 0;
+28016268PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 64 53 58 43 34
+Admitidas 61 53 58 43 30
+No admitidas 3 0 0 0 4;
+28016271PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 58 39 50 43 41
+Admitidas 32 30 24 24 20
+No admitidas 26 9 26 19 21;
+28016645PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 33 28 30 26 34
+Admitidas 26 26 29 23 22
+No admitidas 7 2 1 3 12;
+28016694PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 102 94 107 101 112
+Admitidas 95 86 85 84 72
+No admitidas 7 8 22 17 40;
+28016712PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 90 98 95 78 83
+Admitidas 50 44 56 50 44
+No admitidas 40 54 39 28 39;
+28017182PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 51 67 41 27 70
+Admitidas 46 51 40 24 59
+No admitidas 5 16 1 3 11;
+28017339PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 11 15 25 7 14
+Admitidas 11 13 25 7 12
+No admitidas 0 2 0 0 2;
+28017649PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 63 59 60 68 59
+Admitidas 56 52 53 52 44
+No admitidas 7 7 7 16 15;
+28017741PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 33 45 34 42 32
+Admitidas 26 31 23 28 25
+No admitidas 7 14 11 14 7;
+28017753PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 99 89 64 67 66
+Admitidas 51 50 50 62 54
+No admitidas 48 39 14 5 12;
+28017777PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 10 10 22 10 17
+Admitidas 10 9 21 10 17
+No admitidas 0 1 1 0 0;
+28017844PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 74 49 42 38 46
+Admitidas 61 44 41 37 46
+No admitidas 13 5 1 1 0;
+28017893PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 31 15 17 13 11
+Admitidas 31 15 17 13 9
+No admitidas 0 0 0 0 2;
+28018061PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 30 42 36 41 46
+Admitidas 24 23 29 26 22
+No admitidas 6 19 7 15 24;
+28018393PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 18 14 18 12 11
+Admitidas 17 14 18 12 11
+No admitidas 1 0 0 0 0;
+28018401PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 34 28 29 19 24
+Admitidas 27 26 19 19 24
+No admitidas 7 2 10 0 0;
+28018459PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 75 68 61 68 58
+Admitidas 50 57 50 50 51
+No admitidas 25 11 11 18 7;
+28018496PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 26 32 24 16 19
+Admitidas 24 31 24 16 19
+No admitidas 2 1 0 0 0;
+28018502PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 105 104 69 83 63
+Admitidas 75 56 54 50 50
+No admitidas 30 48 15 33 13;
+28018708PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 139 119 122 112 117
+Admitidas 123 109 106 102 103
+No admitidas 16 10 16 10 14;
+28018711PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 19 36 25 19 10
+Admitidas 17 26 23 18 9
+No admitidas 2 10 2 1 1;
+28019142PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 30 37 52 50 40
+Admitidas 23 25 26 24 24
+No admitidas 7 12 26 26 16;
+28019270PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 77 98 77 100 63
+Admitidas 72 89 74 79 59
+No admitidas 5 9 3 21 4;
+28019348PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 148 148 156 156 119
+Admitidas 141 148 145 149 113
+No admitidas 7 0 11 7 6;
+28019397PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 43 46 44 47 50
+Admitidas 36 37 44 40 48
+No admitidas 7 9 0 7 2;
+28019439PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 23 25 18 22 16
+Admitidas 23 25 17 21 16
+No admitidas 0 0 1 1 0;
+28019567PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 12 5 9 7 5
+Admitidas 12 5 9 7 5
+No admitidas 0 0 0 0 0;
+28019592PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas)
+Presentadas
+Admitidas
+No admitidas;
+28019658PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 49 53 54 46 49
+Admitidas 47 53 52 45 48
+No admitidas 2 0 2 1 1;
+28019725PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 38 22 37 29 19
+Admitidas 36 22 34 29 19
+No admitidas 2 0 3 0 0;
+28019762PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 89 70 94 74 69
+Admitidas 86 69 92 72 67
+No admitidas 3 1 2 2 2;
+28019828PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 131 110 124 102 102
+Admitidas 86 85 84 84 84
+No admitidas 45 25 40 18 18;
+28019981PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 41 30 19 26 24
+Admitidas 25 23 19 25 14
+No admitidas 16 7 0 1 10;
+28020041PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 24 33 27 29 33
+Admitidas 24 30 26 25 26
+No admitidas 0 3 1 4 7;
+28020107PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 94 99 72 66 59
+Admitidas 85 89 64 61 56
+No admitidas 9 10 8 5 3;
+28020120PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 147 143 128 151 143
+Admitidas 109 109 115 107 100
+No admitidas 38 34 13 44 43;
+28020156PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 43 45 31 34 30
+Admitidas 43 45 30 34 30
+No admitidas 0 0 1 0 0;
+28020171PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 15 24 17 18 19
+Admitidas 11 24 17 16 17
+No admitidas 4 0 0 2 2;
+28020235PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 65 85 92 74 76
+Admitidas 54 53 54 54 50
+No admitidas 11 32 38 20 26;
+28020417PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 46 41 48 34 44
+Admitidas 45 41 48 33 44
+No admitidas 1 0 0 1 0;
+28020429PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 74 81 50 54 49
+Admitidas 52 71 39 52 45
+No admitidas 22 10 11 2 4;
+28020533PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 62 51 47 54 55
+Admitidas 50 49 46 53 52
+No admitidas 12 2 1 1 3;
+28020661PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 25 27 23 20 22
+Admitidas 25 27 22 19 20
+No admitidas 0 0 1 1 2;
+28020673PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 89 66 69 43 89
+Admitidas 83 62 66 42 89
+No admitidas 6 4 3 1 0;
+28020740PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 79 54 51 44 51
+Admitidas 67 50 48 43 50
+No admitidas 12 4 3 1 1;
+28020867PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 49 43 63 62 62
+Admitidas 49 42 62 59 50
+No admitidas 0 1 1 3 12;
+28021045PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 54 56 51 60 70
+Admitidas 54 56 51 59 50
+No admitidas 0 0 0 1 20;
+28021057PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 14 12 13 10 14
+Admitidas 14 11 12 10 12
+No admitidas 0 1 1 0 2;
+28021124PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 45 29 32 39 57
+Admitidas 45 29 32 39 57
+No admitidas 0 0 0 0 0;
+28021148PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 68 61 57 53 43
+Admitidas 60 61 57 53 43
+No admitidas 8 0 0 0 0;
+28021215PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 58 51 52 40 41
+Admitidas 51 47 40 36 32
+No admitidas 7 4 12 4 9;
+28021291PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 21 13 9 19 17
+Admitidas 21 13 9 19 16
+No admitidas 0 0 0 0 1;
+28021306PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 11 22 21 18 11
+Admitidas 11 22 20 18 11
+No admitidas 0 0 1 0 0;
+28021318PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 11 12 10 7 4
+Admitidas 11 12 10 7 4
+No admitidas 0 0 0 0 0;
+28021321PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 52 55 59 55 55
+Admitidas 52 55 53 50 52
+No admitidas 0 0 6 5 3;
+28021331PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 10 10 7 13 16
+Admitidas 9 10 7 13 16
+No admitidas 1 0 0 0 0;
+28021367PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 22 22 23 15 17
+Admitidas 22 22 23 14 16
+No admitidas 0 0 0 1 1;
+28021409PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 54 28 53 51 38
+Admitidas 52 28 52 51 35
+No admitidas 2 0 1 0 3;
+28021422PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 40 38 33 16 21
+Admitidas 34 30 27 16 19
+No admitidas 6 8 6 0 2;
+28021434PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 29 45 26 32 23
+Admitidas 29 45 26 32 23
+No admitidas 0 0 0 0 0;
+28021446PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 7 16 19 25 10
+Admitidas 6 15 11 13 3
+No admitidas 1 1 8 12 7;
+28021461PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 118 126 94 84 53
+Admitidas 83 88 87 83 41
+No admitidas 35 38 7 1 12;
+28021690PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 124 127 103 114 90
+Admitidas 61 61 52 56 50
+No admitidas 63 66 51 58 40;
+28021902PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 56 67 62 55 41
+Admitidas 54 58 57 48 39
+No admitidas 2 9 5 7 2;
+28021975PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2015-2016 2016-2017
+Presentadas 20 31
+Admitidas 20 28
+No admitidas 0 3;
+28021999PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 39 27 40 39 33
+Admitidas 25 20 27 26 25
+No admitidas 14 7 13 13 8;
+28022104PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 54 61 60 51 54
+Admitidas 51 56 60 51 48
+No admitidas 3 5 0 0 6;
+28022335PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 15 23 25 18 18
+Admitidas 15 16 23 18 16
+No admitidas 0 7 2 0 2;
+28022414PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 42 38 30 29 13
+Admitidas 42 37 30 29 13
+No admitidas 0 1 0 0 0;
+28022475PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 75 91 92 101 97
+Admitidas 71 80 84 84 75
+No admitidas 4 11 8 17 22;
+28022487PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 28 35 12 23 37
+Admitidas 26 27 12 23 25
+No admitidas 2 8 0 0 12;
+28022499PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 69 45 38 47 37
+Admitidas 50 40 35 46 32
+No admitidas 19 5 3 1 5;
+28022529PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 16 11 16 17 17
+Admitidas 12 11 15 16 16
+No admitidas 4 0 1 1 1;
+28022566PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 59 70 63 69 59
+Admitidas 59 58 62 57 50
+No admitidas 0 12 1 12 9;
+28022633PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 81 69 73 61 54
+Admitidas 54 62 55 49 49
+No admitidas 27 7 18 12 5;
+28025956PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 8 10 6 9 9
+Admitidas 8 10 6 8 9
+No admitidas 0 0 0 1 0;
+28025968PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 54 42 42 40 47
+Admitidas 49 37 36 37 34
+No admitidas 5 5 6 3 13;
+28025971PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 41 33 42 21 24
+Admitidas 36 32 37 21 23
+No admitidas 5 1 5 0 1;
+28025981PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 36 26 36 30 22
+Admitidas 34 26 34 30 22
+No admitidas 2 0 2 0 0;
+28026006PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 24 40 24 17 19
+Admitidas 24 29 22 16 17
+No admitidas 0 11 2 1 2;
+28026067PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 41 38 60 45 48
+Admitidas 26 38 53 44 46
+No admitidas 15 0 7 1 2;
+28026110PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 27 26 32 33 19
+Admitidas 26 24 25 23 19
+No admitidas 1 2 7 10 0;
+28026535PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 60 60 77 59 75
+Admitidas 47 50 50 49 69
+No admitidas 13 10 27 10 6;
+28026547PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 32 43 19 9 24
+Admitidas 28 36 19 8 23
+No admitidas 4 7 0 1 1;
+28027931PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 15 20 17 15 8
+Admitidas 1 9 2 2 4
+No admitidas 14 11 15 13 4;
+28028416PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 49 69 55 64 53
+Admitidas 42 66 55 61 49
+No admitidas 7 3 0 3 4;
+28028854PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 35 24 24 20 14
+Admitidas 26 24 24 20 14
+No admitidas 9 0 0 0 0;
+28029111PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 77 62 74 76 62
+Admitidas 56 53 53 48 50
+No admitidas 21 9 21 28 12;
+28029123PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 84 65 64 59 32
+Admitidas 70 60 60 56 32
+No admitidas 14 5 4 3 0;
+28029159PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 21 13 13 12 10
+Admitidas 20 13 12 12 10
+No admitidas 1 0 1 0 0;
+28029238PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 65 59 67 81 74
+Admitidas 42 51 51 48 50
+No admitidas 23 8 16 33 24;
+28030198PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 88 93 83 91 66
+Admitidas 73 81 75 73 61
+No admitidas 15 12 8 18 5;
+28030289PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 30 19 17 25 19
+Admitidas 28 19 17 24 17
+No admitidas 2 0 0 1 2;
+28030401PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 37 35 28 32 26
+Admitidas 37 34 28 32 24
+No admitidas 0 1 0 0 2;
+28030411PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 41 48 24 44 41
+Admitidas 41 43 24 44 36
+No admitidas 0 5 0 0 5;
+28030472PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 76 62 60 84 70
+Admitidas 50 54 50 60 51
+No admitidas 26 8 10 24 19;
+28031051PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 67 47 55 69 64
+Admitidas 46 42 49 52 50
+No admitidas 21 5 6 17 14;
+28031063PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 47 44 33 30 19
+Admitidas 42 41 25 29 16
+No admitidas 5 3 8 1 3;
+28031075PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 35 58 59 69 51
+Admitidas 35 57 53 68 50
+No admitidas 0 1 6 1 1;
+28031087PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 60 66 69 62 66
+Admitidas 53 58 54 62 51
+No admitidas 7 8 15 0 15;
+28031099PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 48 53 46 43 50
+Admitidas 45 50 45 43 48
+No admitidas 3 3 1 0 2;
+28031348PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 82 60 64 56 44
+Admitidas 74 58 62 56 43
+No admitidas 8 2 2 0 1;
+28031351PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 90 95 88 73 75
+Admitidas 53 54 50 50 50
+No admitidas 37 41 38 23 25;
+28031488PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 44 48 28 29 32
+Admitidas 26 45 25 24 22
+No admitidas 18 3 3 5 10;
+28031804PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 25 16 9 22 21
+Admitidas 22 16 9 22 21
+No admitidas 3 0 0 0 0;
+28031993PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2014-2015 2015-2016 2016-2017
+Presentadas 88 86 98
+Admitidas 87 86 75
+No admitidas 1 0 23;
+28032183PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 27 29 26 28 36
+Admitidas 27 29 26 28 26
+No admitidas 0 0 0 0 10;
+28032195PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 19 18 6 17 16
+Admitidas 18 18 6 17 15
+No admitidas 1 0 0 0 1;
+28032225PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 80 50 38 46 48
+Admitidas 61 48 33 46 48
+No admitidas 19 2 5 0 0;
+28032791PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 72 56 66 56 34
+Admitidas 69 56 48 55 32
+No admitidas 3 0 18 1 2;
+28033928PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 32 28 60 65 63
+Admitidas 25 19 53 50 49
+No admitidas 7 9 7 15 14;
+28033931PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 33 38 44 40 41
+Admitidas 33 36 43 37 38
+No admitidas 0 2 1 3 3;
+28033941PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 13 15 20 8 12
+Admitidas 13 15 20 8 12
+No admitidas 0 0 0 0 0;
+28034933PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2016-2017
+Presentadas 8
+Admitidas 8
+No admitidas 0;
+28035044PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 79 77 73 69 58
+Admitidas 79 77 71 69 57
+No admitidas 0 0 2 0 1;
+28035275PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas)
+Presentadas
+Admitidas
+No admitidas;
+28035512PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 49 27 26 40 45
+Admitidas 42 17 26 40 40
+No admitidas 7 10 0 0 5;
+28035524PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 37 43 51 32 28
+Admitidas 36 39 51 31 26
+No admitidas 1 4 0 1 2;
+28035536PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 7 14 20 9 10
+Admitidas 4 14 5 7 9
+No admitidas 3 0 15 2 1;
+28035548PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 48 32 45 36 37
+Admitidas 29 28 28 28 25
+No admitidas 19 4 17 8 12;
+28036474PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas)
+Presentadas
+Admitidas
+No admitidas;
+28037201PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 51 34 35 36 29
+Admitidas 49 34 29 36 29
+No admitidas 2 0 6 0 0;
+28037375PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 61 43 46 42 57
+Admitidas 49 39 46 38 50
+No admitidas 12 4 0 4 7;
+28037405PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2015-2016 2016-2017
+Presentadas 61 79
+Admitidas 61 79
+No admitidas 0 0;
+28037648PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 49 39 27 46 39
+Admitidas 49 39 25 46 38
+No admitidas 0 0 2 0 1;
+28037791PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2015-2016 2016-2017
+Presentadas 32 39
+Admitidas 25 25
+No admitidas 7 14;
+28037971PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 58 47 34 25 35
+Admitidas 58 46 34 25 35
+No admitidas 0 1 0 0 0;
+28037983PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 52 41 26 32 29
+Admitidas 43 40 26 28 28
+No admitidas 9 1 0 4 1;
+28038318PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 48 46 47 46 53
+Admitidas 45 46 47 46 49
+No admitidas 3 0 0 0 4;
+28038321PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 5 18 10 4 10
+Admitidas 0 18 10 4 9
+No admitidas 5 0 0 0 1;
+28038331PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 9 9 11 12 13
+Admitidas 9 5 9 11 12
+No admitidas 0 4 2 1 1;
+28038343PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 104 73 80 95 75
+Admitidas 83 73 76 77 67
+No admitidas 21 0 4 18 8;
+28039360PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 16 25 27 13 25
+Admitidas 16 25 27 13 25
+No admitidas 0 0 0 0 0;
+28039372PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 14 18 13 18 10
+Admitidas 14 18 11 18 10
+No admitidas 0 0 2 0 0;
+28040520PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 77 81 76 83 62
+Admitidas 59 58 56 57 50
+No admitidas 18 23 20 26 12;
+28041755PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 61 66 36 53 49
+Admitidas 53 56 32 51 46
+No admitidas 8 10 4 2 3;
+28041767PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 60 53 54 47 46
+Admitidas 54 50 52 47 44
+No admitidas 6 3 2 0 2;
+28042498PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 77 72 71 57 50
+Admitidas 56 57 64 55 46
+No admitidas 21 15 7 2 4;
+28042796PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 110 113 106 114 107
+Admitidas 44 53 50 47 52
+No admitidas 66 60 56 67 55;
+28043077PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 35 43 36 41 26
+Admitidas 35 43 35 41 26
+No admitidas 0 0 1 0 0;
+28043223PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas)
+Presentadas
+Admitidas
+No admitidas;
+28044434PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 89 88 60 46 58
+Admitidas 79 76 57 46 58
+No admitidas 10 12 3 0 0;
+28044872PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 25 31 18 15 14
+Admitidas 21 30 18 14 13
+No admitidas 4 1 0 1 1;
+28045086PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 54 58 54 54 50
+Admitidas 42 46 45 44 35
+No admitidas 12 12 9 10 15;
+28045098PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 112 81 96 75 66
+Admitidas 73 75 75 73 57
+No admitidas 39 6 21 2 9;
+28045104PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 30 28 27 24 18
+Admitidas 30 28 24 24 18
+No admitidas 0 0 3 0 0;
+28045566PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 145 184 166 166 153
+Admitidas 137 142 131 134 125
+No admitidas 8 42 35 32 28;
+28046509PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 146 154 153 143 126
+Admitidas 142 149 143 136 117
+No admitidas 4 5 10 7 9;
+28046881PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2015-2016 2016-2017
+Presentadas 53 46
+Admitidas 50 43
+No admitidas 3 3;
+28046901PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 85 63 74 71 59
+Admitidas 85 62 74 71 59
+No admitidas 0 1 0 0 0;
+28049365PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 52 59 40 49 41
+Admitidas 52 59 36 47 40
+No admitidas 0 0 4 2 1;
+28049377PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 62 57 68 55 55
+Admitidas 61 57 60 50 45
+No admitidas 1 0 8 5 10;
+28049857PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2015-2016 2016-2017
+Presentadas 121 87
+Admitidas 112 83
+No admitidas 9 4;
+28050343PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 31 37 24 17 23
+Admitidas 31 36 24 15 19
+No admitidas 0 1 0 2 4;
+28050355PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 37 31 35 23 40
+Admitidas 34 30 30 23 35
+No admitidas 3 1 5 0 5;
+28056886PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 142 145 148 133 117
+Admitidas 111 116 115 113 102
+No admitidas 31 29 33 20 15;
+28057015PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 32 37 19 26 18
+Admitidas 32 35 17 24 17
+No admitidas 0 2 2 2 1;
+28058135PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas)
+Presentadas
+Admitidas
+No admitidas;
+28060211PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 112 134 101 110 79
+Admitidas 74 79 75 95 75
+No admitidas 38 55 26 15 4;
+28060221PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 95 125 90 72 95
+Admitidas 92 106 87 65 93
+No admitidas 3 19 3 7 2;
+28062217PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 12 13 15 9 8
+Admitidas 12 13 15 9 8
+No admitidas 0 0 0 0 0;
+28062497PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 27 28 28 24 17
+Admitidas 18 16 15 18 16
+No admitidas 9 12 13 6 1;
+28063751PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 180 122 113 126 134
+Admitidas 78 82 73 81 75
+No admitidas 102 40 40 45 59;
+28063763PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 132 93 97 72 80
+Admitidas 97 86 89 68 75
+No admitidas 35 7 8 4 5;
+28063775PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 54 64 50 66 59
+Admitidas 51 56 46 49 50
+No admitidas 3 8 4 17 9;
+28063787PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 120 101 93 101 84
+Admitidas 77 83 82 94 80
+No admitidas 43 18 11 7 4;
+28063799PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 103 93 74 71 64
+Admitidas 95 89 74 67 63
+No admitidas 8 4 0 4 1;
+28063805PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 73 66 72 70 75
+Admitidas 70 65 70 70 75
+No admitidas 3 1 2 0 0;
+28064202PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 122 130 119 128 119
+Admitidas 84 84 83 112 75
+No admitidas 38 46 36 16 44;
+28064408PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 29 18 17 20 25
+Admitidas 29 18 16 20 25
+No admitidas 0 0 1 0 0;
+28065735PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 162 198 217 232 192
+Admitidas 151 175 176 175 150
+No admitidas 11 23 41 57 42;
+28065747PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 182 220 197 216 195
+Admitidas 179 193 193 168 150
+No admitidas 3 27 4 48 45;
+28066090PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 86 82 95 78 81
+Admitidas 79 75 75 71 75
+No admitidas 7 7 20 7 6;
+28066302PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 88 67 48 56 63
+Admitidas 74 65 48 49 50
+No admitidas 14 2 0 7 13;
+28067318PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 155 147 132 115 99
+Admitidas 101 100 100 97 92
+No admitidas 54 47 32 18 7;
+28067321PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 131 158 180 206 203
+Admitidas 126 158 180 172 144
+No admitidas 5 0 0 34 59;
+28067331PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 168 188 222 199 202
+Admitidas 111 142 116 141 150
+No admitidas 57 46 106 58 52;
+28067392PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 57 57 66 39 49
+Admitidas 50 54 50 35 45
+No admitidas 7 3 16 4 4;
+28067409PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 192 211 207 191 183
+Admitidas 118 126 111 110 100
+No admitidas 74 85 96 81 83;
+28069169PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 72 86 105 63 86
+Admitidas 69 76 101 55 81
+No admitidas 3 10 4 8 5;
+28069251PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 201 193 160 155 135
+Admitidas 140 140 110 112 100
+No admitidas 61 53 50 43 35;
+28069261PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 134 102 87 79 71
+Admitidas 134 102 87 78 71
+No admitidas 0 0 0 1 0;
+28069273PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 149 139 109 107 112
+Admitidas 112 109 100 98 100
+No admitidas 37 30 9 9 12;
+28069285PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas)
+Presentadas
+Admitidas
+No admitidas;
+28069297PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 187 173 194 180 193
+Admitidas 159 150 174 171 138
+No admitidas 28 23 20 9 55;
+28069820PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 152 157 198 145 148
+Admitidas 122 157 145 102 100
+No admitidas 30 0 53 43 48;
+28070846PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 132 130 122 141 175
+Admitidas 132 125 122 140 150
+No admitidas 0 5 0 1 25;
+28071361PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 109 192 195 163 110
+Admitidas 109 180 149 119 75
+No admitidas 0 12 46 44 35;
+28071371PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 137 144 176 119 119
+Admitidas 115 134 114 110 100
+No admitidas 22 10 62 9 19;
+28071383PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 62 64 109 107 99
+Admitidas 59 59 88 75 75
+No admitidas 3 5 21 32 24;
+28071826PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 110 107 134 90 84
+Admitidas 104 107 75 75 75
+No admitidas 6 0 59 15 9;
+28072132PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 345 334 250 217 194
+Admitidas 168 168 125 117 125
+No admitidas 177 166 125 100 69;
+28072144PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 245 204 216 231 190
+Admitidas 177 162 170 173 125
+No admitidas 68 42 46 58 65;
+28072466PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 61 99 104 138 129
+Admitidas 61 95 100 100 100
+No admitidas 0 4 4 38 29;
+28072478PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 53 74 109 115 137
+Admitidas 53 73 106 100 125
+No admitidas 0 1 3 15 12;
+28072995PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 99 148 149 177 158
+Admitidas 99 123 115 135 125
+No admitidas 0 25 34 42 33;
+28073151PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 101 82 110 101 111
+Admitidas 101 82 108 98 107
+No admitidas 0 0 2 3 4;
+28073173PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 118 127 128 141 128
+Admitidas 113 119 118 117 100
+No admitidas 5 8 10 24 28;
+28073276PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2012-2013 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 20 39 64 53 81
+Admitidas 9 9 46 36 35
+No admitidas 11 30 18 17 46;
+28074256PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2013-2014 2014-2015 2015-2016 2016-2017
+Presentadas 72 110 199 145
+Admitidas 72 110 149 125
+No admitidas 0 0 50 20;
+28074578PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2014-2015 2015-2016 2016-2017
+Presentadas 4 0 60
+Admitidas 4 0 54
+No admitidas 0 0 6;
+28075777PROCESO DE ADMISIÓN (solicitudes presentadas, admitidas, no admitidas) 2015-2016 2016-2017
+Presentadas 11 42
+Admitidas 10 40
+No admitidas 1 2;

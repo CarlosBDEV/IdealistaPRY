@@ -1,0 +1,742 @@
+28004266PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 76.47 86.36 76.19 83.33 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28004552PRUEBA EXTERNA EN CENTROS BILINGÜES 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 100 72.73
+Total Comunidad de Madrid 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0
+Programa centro 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0;
+28004904PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 80.65 100 82.61 100 85.71
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28004965PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 93.88 100 97.56 100 95.83
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28004990PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 94.44 100 91.49 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28005076PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 75.68 100 79.49 86.36 85.37
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28005167PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 84.85 100 91.3 100 97.78
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28005179PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 96.97 91.67 66.67 100 26.32
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28005246PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 97.37 100 93.02 100 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28005258PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 73.91 88.89 100 100 96
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28005349PRUEBA EXTERNA EN CENTROS BILINGÜES 2012-2013 2013-2014 2014-2015
+Total centro 75 94.12 81.25
+Total Comunidad de Madrid 90.39 89.6 89.9
+Sección centro 0 0 0
+Sección Comunidad de Madrid 0 0 0
+Programa centro 0 0 0
+Programa Comunidad de Madrid 0 0 0;
+28005431PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 97.56 94.29 95.45 89.8
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28005441PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 97.67 100 100 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28005465PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 28.89 51.22 89.47 100 97.5
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28005489PRUEBA EXTERNA EN CENTROS BILINGÜES 2013-2014 2014-2015
+Total centro 100 100
+Total Comunidad de Madrid 89.6 89.9
+Sección centro 0 0
+Sección Comunidad de Madrid 0 0
+Programa centro 0 0
+Programa Comunidad de Madrid 0 0;
+28005490PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 80.49 84.09 97.83 97.37 85.37
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28005571PRUEBA EXTERNA EN CENTROS BILINGÜES 2012-2013 2013-2014 2014-2015
+Total centro 100 78.57 84.62
+Total Comunidad de Madrid 90.39 89.6 89.9
+Sección centro 0 0 0
+Sección Comunidad de Madrid 0 0 0
+Programa centro 0 0 0
+Programa Comunidad de Madrid 0 0 0;
+28005601PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 86.36 51.43 44 30 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28005623PRUEBA EXTERNA EN CENTROS BILINGÜES 2012-2013 2013-2014 2014-2015
+Total centro 10 24 81.58
+Total Comunidad de Madrid 90.39 89.6 89.9
+Sección centro 0 0 0
+Sección Comunidad de Madrid 0 0 0
+Programa centro 0 0 0
+Programa Comunidad de Madrid 0 0 0;
+28005726PRUEBA EXTERNA EN CENTROS BILINGÜES 2014-2015
+Total centro 95
+Total Comunidad de Madrid 89.9
+Sección centro 0
+Sección Comunidad de Madrid 0
+Programa centro 0
+Programa Comunidad de Madrid 0;
+28005908PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 69.44 95 97.06 100 92.31
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28005994PRUEBA EXTERNA EN CENTROS BILINGÜES 2013-2014 2014-2015
+Total centro 57.14 92
+Total Comunidad de Madrid 89.6 89.9
+Sección centro 0 0
+Sección Comunidad de Madrid 0 0
+Programa centro 0 0
+Programa Comunidad de Madrid 0 0;
+28006020PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 91.67 100 86.67 97.44
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28006101PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 91.3 96 94
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28006123PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 93.33 91.89 100 95 97.53
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28006135PRUEBA EXTERNA EN CENTROS BILINGÜES 2012-2013 2013-2014 2014-2015
+Total centro 89.19 79.41 50
+Total Comunidad de Madrid 90.39 89.6 89.9
+Sección centro 0 0 0
+Sección Comunidad de Madrid 0 0 0
+Programa centro 0 0 0
+Programa Comunidad de Madrid 0 0 0;
+28006238PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 100 100 95.56
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28006275PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 91.43 100 88.64 91.3
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28006305PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 26.32 94.74 100 100 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28006317PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 85.71 86.36 100 100 87.5
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28006354PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 72.22 64.71 100 86.67 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28006366PRUEBA EXTERNA EN CENTROS BILINGÜES 2013-2014 2014-2015
+Total centro 66.67 100
+Total Comunidad de Madrid 89.6 89.9
+Sección centro 0 0
+Sección Comunidad de Madrid 0 0
+Programa centro 0 0
+Programa Comunidad de Madrid 0 0;
+28006391PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 88.57 100 100 81.82
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28006411PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 21.43 71.43 86.67 100 87.5
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28010412PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 82.14 100 86.96 94.44 95
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28010461PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 87.88 92.5 71.43 39.02 53.57
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28010503PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 95.65 97.44 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28010618PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 50 100 100 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28010679PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 92.31 92.86 71.43 69.57 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28010710PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 70 100 100 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28010722PRUEBA EXTERNA EN CENTROS BILINGÜES 2012-2013 2013-2014 2014-2015
+Total centro 98.14 100 100
+Total Comunidad de Madrid 90.39 89.6 89.9
+Sección centro 0 0 0
+Sección Comunidad de Madrid 0 0 0
+Programa centro 0 0 0
+Programa Comunidad de Madrid 0 0 0;
+28010746PRUEBA EXTERNA EN CENTROS BILINGÜES 2013-2014 2014-2015
+Total centro 94.83 100
+Total Comunidad de Madrid 89.6 89.9
+Sección centro 0 0
+Sección Comunidad de Madrid 0 0
+Programa centro 0 0
+Programa Comunidad de Madrid 0 0;
+28010761PRUEBA EXTERNA EN CENTROS BILINGÜES 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 43.75 60 100 0
+Total Comunidad de Madrid 0 90.39 89.6 89.9
+Sección centro 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0
+Programa centro 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0;
+28010771PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 84.09 86.54 100 100 95.83
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28010795PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 50 100 100 79.25 63.04
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28010850PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 100 100 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28010898PRUEBA EXTERNA EN CENTROS BILINGÜES 2013-2014 2014-2015
+Total centro 100 75
+Total Comunidad de Madrid 89.6 89.9
+Sección centro 0 0
+Sección Comunidad de Madrid 0 0
+Programa centro 0 0
+Programa Comunidad de Madrid 0 0;
+28010931PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 100 100 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28010941PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 87.5 81.58 78.38 65.71
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28010990PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 78.95 100 74.19 75
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28011015PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 52.38 70 21.05 100 93.33
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28011684PRUEBA EXTERNA EN CENTROS BILINGÜES 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 97.5 100 100 97.62
+Total Comunidad de Madrid 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0
+Programa centro 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0;
+28013309PRUEBA EXTERNA EN CENTROS BILINGÜES 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 81.58 85.71 82.76 100
+Total Comunidad de Madrid 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0
+Programa centro 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0;
+28018459PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 79.07 81.08 83.33 90.91 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28018496PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 88.89 93.75 88.89 42.11 84.62
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28018502PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 88.24 94.44 91.84 97.87
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28019658PRUEBA EXTERNA EN CENTROS BILINGÜES 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 90 100 100 76
+Total Comunidad de Madrid 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0
+Programa centro 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0;
+28020533PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 97.73 95 95.92
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28020867PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 100 100 97.5
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28021045PRUEBA EXTERNA EN CENTROS BILINGÜES 2012-2013 2013-2014 2014-2015
+Total centro 100 52.38 100
+Total Comunidad de Madrid 90.39 89.6 89.9
+Sección centro 0 0 0
+Sección Comunidad de Madrid 0 0 0
+Programa centro 0 0 0
+Programa Comunidad de Madrid 0 0 0;
+28021321PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 88.64 100 100 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28021367PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 56.67 85 72.73 72.22 60.87
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28021409PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 93.02 100 100 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28021422PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 65 88.1 93.55 54.05 80.56
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28021434PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 100 100 41.94
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28021446PRUEBA EXTERNA EN CENTROS BILINGÜES 2014-2015
+Total centro 95.24
+Total Comunidad de Madrid 89.9
+Sección centro 0
+Sección Comunidad de Madrid 0
+Programa centro 0
+Programa Comunidad de Madrid 0;
+28021461PRUEBA EXTERNA EN CENTROS BILINGÜES 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 75.86 98 81.48 100
+Total Comunidad de Madrid 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0
+Programa centro 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0;
+28025968PRUEBA EXTERNA EN CENTROS BILINGÜES 2012-2013 2013-2014 2014-2015
+Total centro 94.12 100 83.33
+Total Comunidad de Madrid 90.39 89.6 89.9
+Sección centro 0 0 0
+Sección Comunidad de Madrid 0 0 0
+Programa centro 0 0 0
+Programa Comunidad de Madrid 0 0 0;
+28026006PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 70.73 75.61 90.24
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28026067PRUEBA EXTERNA EN CENTROS BILINGÜES 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 90 100 65.22 82.35
+Total Comunidad de Madrid 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0
+Programa centro 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0;
+28028416PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 86.11 94.74 100 89.74
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28028854PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 100 100 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28029123PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 86.54 60.61 96.36
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28030198PRUEBA EXTERNA EN CENTROS BILINGÜES 2012-2013 2013-2014 2014-2015
+Total centro 100 100 98.44
+Total Comunidad de Madrid 90.39 89.6 89.9
+Sección centro 0 0 0
+Sección Comunidad de Madrid 0 0 0
+Programa centro 0 0 0
+Programa Comunidad de Madrid 0 0 0;
+28030411PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 94.87 100 100 77.08 87.18
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28030472PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 96.88 97.87 100 98.08 93.88
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28031075PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 53.85 65.38 100 93.55 61.54
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28031087PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 87.5 100 96.23 90.54 96.08
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28031348PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 98.53 89.33 100 95.77 98.57
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28031351PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 86.67 100 98.39 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28032791PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 97.22 97.62 100 95.35 94.12
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28035512PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 96.43 71.43 32.14 89.66
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28035524PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 40 26.47 100 95.45
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28035548PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 100 100 90.91
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28037201PRUEBA EXTERNA EN CENTROS BILINGÜES 2012-2013 2013-2014 2014-2015
+Total centro 69.23 100 100
+Total Comunidad de Madrid 90.39 89.6 89.9
+Sección centro 0 0 0
+Sección Comunidad de Madrid 0 0 0
+Programa centro 0 0 0
+Programa Comunidad de Madrid 0 0 0;
+28037648PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 97.56 100 97.73 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28038318PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 62.5 97.83 100 100 86.05
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28038343PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 100 98.25 95.16
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28041767PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 91.49 100 100 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28042796PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 66.67 83.87 100 100 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28045098PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 89.71 93.55 87.32 93.02
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28045104PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 92 100 94.74
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28049365PRUEBA EXTERNA EN CENTROS BILINGÜES 2013-2014 2014-2015
+Total centro 100 96.77
+Total Comunidad de Madrid 89.6 89.9
+Sección centro 0 0
+Sección Comunidad de Madrid 0 0
+Programa centro 0 0
+Programa Comunidad de Madrid 0 0;
+28049377PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 94.59 60 50 90 51.72
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28050355PRUEBA EXTERNA EN CENTROS BILINGÜES 2013-2014 2014-2015
+Total centro 61.29 68.42
+Total Comunidad de Madrid 89.6 89.9
+Sección centro 0 0
+Sección Comunidad de Madrid 0 0
+Programa centro 0 0
+Programa Comunidad de Madrid 0 0;
+28060211PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 84.85 91.43 93.9 95.1 93.75
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28063751PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 82.93 81.67 98.41 79.35 98.98
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28063775PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 100 98.53 98 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28063787PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 100 95.65 96.15 99 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28066090PRUEBA EXTERNA EN CENTROS BILINGÜES 2014-2015
+Total centro 87.37
+Total Comunidad de Madrid 89.9
+Sección centro 0
+Sección Comunidad de Madrid 0
+Programa centro 0
+Programa Comunidad de Madrid 0;
+28069169PRUEBA EXTERNA EN CENTROS BILINGÜES 2012-2013 2013-2014 2014-2015
+Total centro 69.23 94.44 76.09
+Total Comunidad de Madrid 90.39 89.6 89.9
+Sección centro 0 0 0
+Sección Comunidad de Madrid 0 0 0
+Programa centro 0 0 0
+Programa Comunidad de Madrid 0 0 0;
+28069820PRUEBA EXTERNA EN CENTROS BILINGÜES 2010-2011 2011-2012 2012-2013 2013-2014 2014-2015
+Total centro 52.94 100 100 100 100
+Total Comunidad de Madrid 86.43 88.45 90.39 89.6 89.9
+Sección centro 0 0 0 0 0
+Sección Comunidad de Madrid 0 0 0 0 0
+Programa centro 0 0 0 0 0
+Programa Comunidad de Madrid 0 0 0 0 0;
+28071361PRUEBA EXTERNA EN CENTROS BILINGÜES 2013-2014 2014-2015
+Total centro 100 100
+Total Comunidad de Madrid 89.6 89.9
+Sección centro 0 0
+Sección Comunidad de Madrid 0 0
+Programa centro 0 0
+Programa Comunidad de Madrid 0 0;
+28071371PRUEBA EXTERNA EN CENTROS BILINGÜES 2013-2014 2014-2015
+Total centro 97.44 58.9
+Total Comunidad de Madrid 89.6 89.9
+Sección centro 0 0
+Sección Comunidad de Madrid 0 0
+Programa centro 0 0
+Programa Comunidad de Madrid 0 0;
+28071826PRUEBA EXTERNA EN CENTROS BILINGÜES 2014-2015
+Total centro 90.24
+Total Comunidad de Madrid 89.9
+Sección centro 0
+Sección Comunidad de Madrid 0
+Programa centro 0
+Programa Comunidad de Madrid 0;
+28072478PRUEBA EXTERNA EN CENTROS BILINGÜES 2014-2015
+Total centro 57.14
+Total Comunidad de Madrid 89.9
+Sección centro 0
+Sección Comunidad de Madrid 0
+Programa centro 0
+Programa Comunidad de Madrid 0;

@@ -1,0 +1,49 @@
+Coordenadas de entrada... 40.38722,-3.65321Radio de busqueda........  1500[INFO] Páginas devueltas: 2
+[INFO] Elementos en total : 98
+Coordenadas de entrada... 40.38722,-3.65321Radio de busqueda........  1500[INFO] Páginas devueltas: 2
+[INFO] Elementos en total : 98
+Coordenadas de entrada... 40.40777,-3.64355Radio de busqueda........  1500[INFO] Páginas devueltas: 2
+[INFO] Elementos en total : 83
+Coordenadas de entrada... 40.40777,-3.64355Radio de busqueda........  1500[INFO] Páginas devueltas: 2
+[INFO] Elementos en total : 83
+Coordenadas de entrada... 40.43388,-3.62909Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 102
+Coordenadas de entrada... 40.43388,-3.62909Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 102
+Coordenadas de entrada... 40.43388,-3.62909Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 102
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 5
+[INFO] Elementos en total : 250
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 5
+[INFO] Elementos en total : 250
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 5
+[INFO] Elementos en total : 250
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 5
+[INFO] Elementos en total : 250
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 5
+[INFO] Elementos en total : 250
+Coordenadas de entrada... 40.46516,-3.64819Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 101
+Coordenadas de entrada... 40.46516,-3.64819Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 101
+Coordenadas de entrada... 40.46516,-3.64819Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 101
+Coordenadas de entrada... 40.38722,-3.65321Radio de busqueda........  1500[INFO] Páginas devueltas: 1
+[INFO] Elementos en total : 46
+Coordenadas de entrada... 40.40777,-3.64355Radio de busqueda........  1500[INFO] Páginas devueltas: 1
+[INFO] Elementos en total : 31
+Coordenadas de entrada... 40.43388,-3.62909Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 136
+Coordenadas de entrada... 40.43388,-3.62909Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 136
+Coordenadas de entrada... 40.43388,-3.62909Radio de busqueda........  1500[INFO] Páginas devueltas: 3
+[INFO] Elementos en total : 136
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 4
+[INFO] Elementos en total : 168
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 4
+[INFO] Elementos en total : 168
+Coordenadas de entrada... 40.44662,-3.66997Radio de busqueda........  1500[INFO] Páginas devueltas: 4
+[INFO] Elementos en total : 168
+Error 429 en la petición a la API
+429.Error en peticiones.Se aborta
+2017-07-27 11:02:28: Insertamos {'date': '2017-07-27 11:02:28', 'num_request': 9, 'user': 'cbarajas'} peticiones en LogPeticion

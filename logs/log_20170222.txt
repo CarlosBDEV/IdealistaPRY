@@ -1,0 +1,342 @@
+Usuario usuario3 tiene 0 peticiones.
+Coordenadas de entrada... 40.22659,-3.22586Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 2
+Elementos en total: 97
+50elementos de la página 1
+Coordenadas de entrada... 40.22659,-3.22586Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 2
+Elementos en total: 97
+50elementos de la página 2
+Elementos insertados: 47
+2017-02-22 21:13:31: Insertamos {'date': '2017-02-22 21:13:31', 'user': 'usuario3', 'num_request': 2} peticiones en LogPeticion
+Usuario usuario3 tiene 2 peticiones.
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 1
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 2
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 3
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 4
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 5
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 6
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 7
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 8
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 9
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 10
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 11
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 12
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 13
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 14
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 15
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 16
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 17
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 18
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 19
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 20
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 21
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 22
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 23
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 24
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 25
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 26
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 27
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 28
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 29
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 30
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 31
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 32
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 33
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 34
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 35
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 36
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 37
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 38
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 39
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 40
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 41
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 42
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 43
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 44
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 45
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 46
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 47
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 48
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 49
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 50
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 51
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 52
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 53
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 54
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 55
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 56
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 57
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 58
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 59
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 60
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 61
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 62
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 63
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 64
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 65
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 66
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 67
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 68
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 69
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 70
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 71
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 72
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 73
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 74
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 75
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 76
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 77
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 78
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 79
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 80
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 81
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 82
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 83
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 84
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 85
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 86
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 87
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 88
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 89
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 90
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 91
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 92
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 93
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 94
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 95
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 96
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 97
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 98
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 99
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 100
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 101
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 102
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 103
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 104
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 105
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 106
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 107
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 108
+Coordenadas de entrada... 40.41862,-3.7038Radio de busqueda........  5000 **RESULTADOS LLAMADA**Páginas devueltas: 118
+Elementos en total: 5874
+50elementos de la página 109
+Error 500 en la petición a la API
+U3 llegó al limite de peticiones.Se inicializa
+2017-02-22 21:15:57: Insertamos {'date': '2017-02-22 21:15:57', 'user': 'usuario3', 'num_request': 0} peticiones en LogPeticion
+Elementos insertados: 5400
+2017-02-22 21:15:57: Insertamos {'date': '2017-02-22 21:15:57', 'user': 'usuario3', 'num_request': 112} peticiones en LogPeticion
